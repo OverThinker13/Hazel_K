@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 
 #include "Core.h"
 
@@ -12,7 +12,7 @@ namespace Hazel_K {
 		void Run();
 	};
 
-	//ÒªÔÚ¿Í»§¶ËÓ¦ÓÃ³ÌĞòÖĞ¶¨ÒåÕâ¸öº¯Êı
+	//è¦åœ¨å®¢æˆ·ç«¯åº”ç”¨ç¨‹åºä¸­å®šä¹‰è¿™ä¸ªå‡½æ•°
 	Application* CreateApplication();
 }
 
